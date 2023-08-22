@@ -1,6 +1,6 @@
 # Movie Management Web Application
 
-![Screenshot](screenshot.png)
+![Screenshot](/resource/cinema.png)
 
 Welcome to the Movie Management Web Application! This application allows users to explore movies, make bookings, and manage movie information. The application is built using PHP, Bootstrap, and utilizes the XAMPP server and PHPMyAdmin database for data management.
 
