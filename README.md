@@ -9,7 +9,7 @@ Welcome to the Movie Management Web Application! This application allows users t
 
 - Two types of users: Admin and Regular User
 - User authentication: Register and login functionality
-- Admin privileges: View, edit, add, and delete movie information
+- Admin privileges: View, edit, add, and delete movie information and see bookings from all regular users
 - User privileges: View movie cards and make bookings
 - Booking feature: Select the number of tickets, date, and showtime for a movie
 - User history: View previous movie bookings
@@ -36,4 +36,5 @@ Welcome to the Movie Management Web Application! This application allows users t
 3. As an Admin, manage movies by editing, adding, or deleting movie information.
 4. As a Regular User, browse movies, view movie cards, and make bookings.
 5. View your booking history and reservations.
+6. As an Admin, view all bookings from all regular users.
 
