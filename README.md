@@ -1,6 +1,6 @@
 # Movie Management Web Application
 
-<div style="text-align: center;">
+<div style="text-align: center">
 <img src="/resource/cinema.png" alt="Screenshot" width="600" height="400" />
 </div>
 
