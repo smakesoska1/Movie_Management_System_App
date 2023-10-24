@@ -38,3 +38,5 @@ Welcome to the Movie Management Web Application! This application allows users t
 5. View your booking history and reservations.
 6. As an Admin, view all bookings from all regular users.
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smakesoska1&show_icons=true&locale=en&layout=compact" alt="smakesoska1" /></p
+
